@@ -1,0 +1,21 @@
+#root {
+      /* max-width: 1280px; */
+    /* margin: 0 auto; */
+    /* padding: 2rem; */
+    text-align: center;
+    width: 100%;
+}
+
+.app{
+  background-color: var(--primary-bg);
+  --headerFooter-bg:#25c0f1 ;
+  --headerFooter-font-color: black;
+  /* --header-bg:#009cce; */
+}
+
+.app.dark {
+  --primary-bg:#919191;
+  --headerFooter-bg:#1e59b8;
+  --headerFooter-font-color: white;
+
+}

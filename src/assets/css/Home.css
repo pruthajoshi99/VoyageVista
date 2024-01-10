@@ -1,0 +1,85 @@
+*, *::before, *::after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.main-container{
+    background-image: url('/Images/Home.jpg') ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+
+    position: absolute;
+    top: 0;
+
+    width: 100%;
+
+}
+
+.description{
+    font-weight: 700;
+    color: black;
+}
+
+.landing-button{
+    margin: 20rem auto;
+}
+
+.home-button{
+    margin: 10rem auto;
+    padding: 1rem;
+
+    border-radius: 8px;
+    border: 1px solid transparent;
+
+    font-size: 1.4rem;
+    font-weight: 500;
+    font-family: inherit;
+
+    background-color: aliceblue;
+    cursor: pointer;
+
+   
+   
+}
+
+.home-button:hover{
+    font-size: 1.8rem;
+  
+    transition: border-color 0.25s;
+ 
+
+}
+
+@media(prefers-reduced-motion: no-preference) {
+   
+    .app:hover .description {
+        animation: changeColor 5s 10;
+    }
+    
+    @keyframes changeColor
+    {
+        0%      {color:#99B7D0;}
+        25%     {color:#BC7D30;}
+        75%     {color:#99B7D0;}
+        100%    {color:#BC7D30;}
+    }
+   
+}  
+
+@media (min-width: 44rem) {
+    .main-container{
+        background-image: url('/Images/Home.jpg') ;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+
+        position: absolute;
+        top: 0;
+
+        width: 100%;
+        height: 100%;
+    
+    }
+}

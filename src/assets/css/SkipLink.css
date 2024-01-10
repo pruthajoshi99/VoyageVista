@@ -1,0 +1,24 @@
+.Skiplink {
+  position: absolute;
+
+  font-size: 1rem;
+
+  opacity: 0;
+
+}
+  /* .Skiplink:focus, .Skiplink:hover {
+
+    left: 50%;
+    transform: translateX(-50%);
+    opacity: 1;
+
+    color: var(--headerFooter-font-color);
+  } */
+
+  
+
+.skipLink .Skiplink:focus, .skipLink .Skiplink:hover{
+  opacity: 1;
+  border-color: #646cff;
+}
+

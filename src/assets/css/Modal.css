@@ -1,0 +1,132 @@
+.iternary-modal{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+
+  padding-top: 0.5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-bottom: 2rem;
+
+  
+  transform: translate(-50%, -50%);
+}
+
+.information {
+  display: flex;
+  flex-direction: column;
+
+  gap: 0.2rem;
+
+  padding: 1rem;
+}
+
+.modal-email, .modal-name, .modal-travelers, .modal-travelDate, .modal-accommodation {
+  margin-top: 0.5rem;
+}
+
+.inputname, .inputemail, .inputtravelers, .inputaccommodation, .inputtravelDate {
+  margin-top: 0.5rem;
+  height: 2rem;
+
+  text-align: center;
+}
+
+.pricing {
+  margin-top: 0.5rem;
+
+  display: flex;
+  justify-content: space-between;
+}
+
+.solid {
+  width: 100%;
+}
+
+.total-pricing {
+  display: flex;
+  
+  justify-content: space-between;
+}
+
+.reservation-card {
+  display: flex;
+  flex-direction: column;
+
+  margin-top: 0.8rem;
+  
+  border-radius: 10px;
+  padding: 1rem;
+  width: -webkit-fill-available;
+
+  justify-content: center;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+
+}
+
+.reservation-card > span > strong {
+  font-size: 2rem;
+}
+
+.modal-buttons {
+  display: flex;
+  justify-content: space-between;
+
+  margin-top: 0.5rem;
+}
+
+.confirm {
+  position: relative;  
+  height: auto;
+  padding: 6px 20px;
+
+  border-radius: 100px;
+  border-radius: 100px;
+  border-width: 0;
+
+  align-items: center;
+  justify-content: center;
+
+  color: #FFFFFF;
+  cursor: pointer;
+  
+  font-size: 1rem;
+  line-height: 1.5;
+
+  background-color: #3EB2FD;
+  background-image: linear-gradient(1deg, #4F58FD, #149BF3 99%);
+  background-size: calc(100% + 20px) calc(100% + 20px);
+   
+  
+}
+
+.cancel {
+  position: relative;  
+  height: auto;
+  padding: 6px 20px;
+  
+
+  border-radius: 100px;
+  border-radius: 100px;
+  border-width: 0;
+
+  align-items: center;
+  justify-content: center;
+
+  color: #FFFFFF;
+  cursor: pointer;
+  
+  font-size: 1rem;
+  line-height: 1.5;
+
+  background-color: red;
+  background-image: linear-gradient(1deg, red, #bff314 99%);
+  background-size: calc(100% + 20px) calc(100% + 20px);
+
+}
+
+.open-modal{
+  border: 1px solid black;
+}
+
+

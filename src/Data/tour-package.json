@@ -1,0 +1,83 @@
+[
+    {
+      "packageId": 1,
+      "destination": "Grand Canyon, USA",
+      "alt": "Grand Canyon, USA",
+      "tariff": "2000$",
+      "duration": "5 nights 4 days",
+      "img":"/Images/GrandCanyon.jpg"
+    },
+    {
+      "packageId": 2,
+      "destination": "Banff National Park, Canada",
+      "alt": "Banff National Park, Canada",
+      "tariff": "2500$",
+      "duration": "7 nights 6 days",
+      "img":"/Images/banff.jpg"
+    },
+    {
+      "packageId": 3,
+      "destination": "Taj Mahal, India",
+      "alt": "Taj Mahal, India",
+      "tariff": "1800$",
+      "duration": "4 nights 3 days",
+      "img":"/Images/TajMahal.jpg"
+    },
+    {
+      "packageId": 4,
+      "destination": "Swiss Alps, Switzerland",
+      "alt": "Swiss Alps, Switzerland",
+      "tariff": "2200$",
+      "duration": "6 nights 5 days",
+      "img":"/Images/switzerland.jpg"
+    },
+    {
+      "packageId": 5,
+      "destination": "Eiffel Tower, France",
+      "alt": "Eiffel Tower, France",
+      "tariff": "2800$",
+      "duration": "8 nights 7 days",
+      "img":"/Images/Paris.jpg"
+    },
+    {
+      "packageId": 6,
+      "destination": "Yellowstone National Park, USA",
+      "alt": "Yellowstone National Park, USA",
+      "tariff": "2300$",
+      "duration": "6 nights 5 days",
+      "img":"/Images/YellowStone.jpg"
+    },
+    {
+      "packageId": 7,
+      "destination": "Rocky Mountains, Canada",
+      "alt": "Rocky Mountains, Canada",
+      "tariff": "2700$",
+      "duration": "8 nights 7 days",
+      "img":"/Images/RockyMountains.jpg"
+    },
+    {
+      "packageId": 8,
+      "destination": "Jaipur, India",
+      "alt": "Jaipur, India",
+      "tariff": "1900$",
+      "duration": "5 nights 4 days",
+      "img":"/Images/Jaipur.jpg"
+    },
+    {
+      "packageId": 9,
+      "destination": "Amalfi Coast, Italy",
+      "alt": "Amalfi Coast, Italy",
+      "tariff": "3200$",
+      "duration": "10 nights 9 days",
+      "img":"/Images/Italy.jpg"
+    },
+    {
+      "packageId": 10,
+      "destination": "Barcelona, Spain",
+      "alt": "Barcelona, Spain",
+      "tariff": "2500$",
+      "duration": "7 nights 6 days",
+      "img":"/Images/barcelona.jpg"
+    }
+  ]
+  

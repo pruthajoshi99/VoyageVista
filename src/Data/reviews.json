@@ -1,0 +1,144 @@
+[
+  {
+    "reviewId": "1",
+    "description": "Absolutely stunning travel experience! From breathtaking landscapes to seamless logistics, this journey exceeded all expectations.",
+    "stars": 5,
+    "date": "12 June 2022",
+    "name": "Chris"
+  },
+  {
+    "reviewId": "2",
+    "description": "Fantastic tour guides and well-planned itineraries. Enjoyed every moment of the trip.",
+    "stars": 4,
+    "date": "1 November 2021",
+    "name": "Sheldon"
+  },
+  {
+    "reviewId": "3",
+    "description": "An adventure filled with cultural immersion. The accommodations were top-notch.",
+    "stars": 5,
+    "date": "29 April 2022",
+    "name": "Rachel"
+  },
+  {
+    "reviewId": "4",
+    "description": "Good overall experience, but some aspects could be improved for a smoother journey.",
+    "stars": 3,
+    "date": "3 January 2021",
+    "name": "Kathy"
+  },
+  {
+    "reviewId": "5",
+    "description": "Disappointing travel package. Issues with accommodations and lackluster customer service.",
+    "stars": 1,
+    "date": "24 July 2023",
+    "name": "Raj"
+  },
+  {
+    "reviewId": "6",
+    "description": "Outstanding journey! The attention to detail and the blend of adventure and comfort make it unforgettable.",
+    "stars": 5,
+    "date": "18 September 2022",
+    "name": "Sophie"
+  },
+  {
+    "reviewId": "7",
+    "description": "Incredible trip with a perfect mix of adventure and relaxation. The guides were knowledgeable, and the scenery was breathtaking.",
+    "stars": 5,
+    "date": "14 August 2021",
+    "name": "Nathan"
+  },
+  {
+    "reviewId": "8",
+    "description": "A trip of a lifetime! The cultural experiences were enriching, and the accommodations were luxurious.",
+    "stars": 5,
+    "date": "15 February 2022",
+    "name": "Elena"
+  },
+  {
+    "reviewId": "9",
+    "description": "Exceeded expectations! The itinerary was well-planned, and the guides were exceptional.",
+    "stars": 5,
+    "date": "5 November 2022",
+    "name": "Oliver"
+  },
+  {
+    "reviewId": "10",
+    "description": "Absolutely phenomenal! The trip was flawlessly executed, and every moment was filled with wonder.",
+    "stars": 5,
+    "date": "8 May 2023",
+    "name": "Mia"
+  },
+  {
+    "reviewId": "11",
+    "description": "An adventure that surpassed all expectations! The cultural immersion and scenic beauty left me in awe.",
+    "stars": 5,
+    "date": "20 March 2023",
+    "name": "Liam"
+  },
+  {
+    "reviewId": "12",
+    "description": "Outstanding journey with a perfect balance of excitement and relaxation. The accommodations were superb.",
+    "stars": 5,
+    "date": "10 September 2022",
+    "name": "Bella"
+  },
+  {
+    "reviewId": "13",
+    "description": "A remarkable travel experience! The guides were knowledgeable, and the attention to detail made the trip extraordinary.",
+    "stars": 5,
+    "date": "20 March 2023",
+    "name": "James"
+  },
+  {
+    "reviewId": "14",
+    "description": "Exceptional journey! The landscapes, cultural experiences, and flawless logistics made it a trip to remember.",
+    "stars": 5,
+    "date": "30 October 2023",
+    "name": "Victoria"
+  },
+  {
+    "reviewId": "15",
+    "description": "Unforgettable adventure with breathtaking scenery and well-organized activities.",
+    "stars": 3,
+    "date": "5 December 2022",
+    "name": "Daniel"
+  },
+  {
+    "reviewId": "16",
+    "description": "Fantastic tour! The guides were friendly and knowledgeable, and the overall experience was amazing.",
+    "stars": 2,
+    "date": "14 August 2021",
+    "name": "Ava"
+  },
+  {
+    "reviewId": "17",
+    "description": "An incredible journey with outstanding guides and a well-thought-out itinerary.",
+    "stars": 1,
+    "date": "18 April 2022",
+    "name": "Benjamin"
+  },
+  {
+    "reviewId": "18",
+    "description": "Absolutely magical! The trip was filled with unique experiences, and the accommodations were top-notch.",
+    "stars": 5,
+    "date": "30 October 2023",
+    "name": "Sophia"
+  },
+  {
+    "reviewId": "19",
+    "description": "A journey of a lifetime! From start to finish, everything was perfect.",
+    "stars": 5,
+    "date": "8 June 2021",
+    "name": "Ryan"
+  },
+  {
+    "reviewId": "20",
+    "description": "Exceptional travel experience! The attention to detail and the seamless execution of the itinerary made it unforgettable.",
+    "stars": 1,
+    "date": "2 November 2022",
+    "name": "Emma"
+  }
+]
+
+  
